@@ -1,0 +1,9 @@
+displayName: "Earape-Mod"
+name: "Earape Mod"
+author: "ssaagamemer"
+subtitle: "Earape Challange Mod"
+description: "This Mod Chaning Sound To Earape State \n(Use As Warning This Will Be deteriorated you speaker)"
+version: "0.1alphatest-1"
+minGameVersion: "140"
+hidden: false
+dependencies: []
