@@ -1,0 +1,4 @@
+name: mod packer
+uses: TheDoctor0/zip-release@0.7.1
+
+
