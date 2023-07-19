@@ -1,8 +1,8 @@
 displayName: "EarapeMindusty"
-name: "Earape Mod"
+name: "Earape Mindusty"
 author: "ssaagamemer"
 subtitle: "Earape Challange Mod"
-description: "This Mod Chaning Sound To Earape State \n(Use As Warning This Will Be deteriorated you speaker)\n This Is A Alpha State If Crash Happened \n Please Open Issue In Github \n\n\n Update Logs: \n Added New Sounds \n Music Earape Is On The Way"
+description: "This Mod Chaning Sound To Earape State \n(Use As Warning This Will Be deteriorated you speaker)\n This Is A Alpha State If Crash Happened \n Please Open Issue In Github \n\n [red[]]Disclamer \n This Mod Not Support Backport Or New Songs From Mods [white[]] \n\n\n Update Logs: \n Added New Sounds \n Music Earape Is On The Way"
 version: "0.1-AlphaTest-b1"
 minGameVersion: "136"
 hidden: true
