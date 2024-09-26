@@ -14,7 +14,7 @@
 - [ ] Drill Earape
 - [ ] Songs Earape
 - [ ] Check If Sound Work
-- [x] No?
+- [ ] Rework All Earaped Sounds/Song
 - [ ] Make a beautiful [mod icon](icon.png) to replace the placeholder.
 - [x] Push a commit with any message containing `[release]` to generate a release draft on [GitHub](https://github.com/ssaagamemer/Earape-Mod/releases). 
 - [ ] Full Release
